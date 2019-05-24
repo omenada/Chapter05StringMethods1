@@ -1,0 +1,10 @@
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\bin\Debug\StringMethod.exe.config
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\bin\Debug\StringMethod.exe
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\bin\Debug\StringMethod.pdb
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.csprojAssemblyReference.cache
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.Form1.resources
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.Properties.Resources.resources
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.csproj.GenerateResource.cache
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.exe
+C:\Projects\Chapter05StringMethods\StringMethod\StringMethod\obj\Debug\StringMethod.pdb
